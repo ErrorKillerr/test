@@ -5,7 +5,7 @@ grn='\033[1;32m'
 
 echo -e $red "welcome to my chanel"
 echo -e $red"MY 1ST SCRIPT"
-clear
+
 echo -e $grn"press enter continu"
 read continu
 echo -e "update found "
