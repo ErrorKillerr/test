@@ -1,4 +1,5 @@
 #!/bin/bash
+git pull
 red='\033[1;31m'
 rset='\033[0m'
 grn='\033[1;32m'
