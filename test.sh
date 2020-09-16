@@ -3,6 +3,7 @@ red='\033[1;31m'
 rset='\033[0m'
 grn='\033[1;32m'
 
+echo -e $red "welcome to my chanel"
 echo -e $red"MY 1ST SCRIPT"
 clear
 echo -e $grn"press enter continu"
