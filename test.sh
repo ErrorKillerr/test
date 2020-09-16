@@ -6,7 +6,8 @@ grn='\033[1;32m'
 
 echo -e $red "welcome to my chanel"
 echo -e $red"MY 1ST SCRIPT"
-
+echo -e $red"MY 1ST SCRIPT"
+echo -e $red"MY 1ST SCRIPT"
 echo -e $grn"press enter continu"
 read continu
 echo -e "update found "
@@ -16,7 +17,7 @@ read -p'input:--' enter;
 
 if [ "${enter}" = "Y" ]
 then
-git pull
+
 clear
 figlet -f slant "U P D A T E D"|lolcat
 sleep 1
